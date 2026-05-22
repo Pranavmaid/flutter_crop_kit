@@ -1,0 +1,30 @@
+# Internal session/planning
+doc/
+CONTEXT.md
+tool/
+
+# CI / dev tooling
+.github/
+dart_test.yaml
+
+# Build artifacts
+build/
+.dart_tool/
+.pub-cache/
+.pub/
+pubspec.lock
+coverage/
+
+# Example app generated platform output
+example/build/
+example/ios/
+example/macos/Pods/
+example/macos/Flutter/ephemeral/
+example/.dart_tool/
+example/pubspec.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store

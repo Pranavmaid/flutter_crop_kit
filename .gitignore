@@ -9,3 +9,7 @@ pubspec.lock
 .vscode/
 coverage/
 .DS_Store
+
+# Internal session/planning artifacts — not shipped to GitHub or pub.dev
+doc/
+CONTEXT.md
