@@ -75,6 +75,13 @@ CI runs golden tests only on Linux. Locally:
 flutter test --update-goldens
 ```
 
+## Author
+
+Created and maintained by [Pranav](https://github.com/Pranavmaid).
+
+Contributions, issues, and feature requests welcome at
+[github.com/Pranavmaid/flutter_crop_kit](https://github.com/Pranavmaid/flutter_crop_kit).
+
 ## License
 
-MIT.
+MIT &copy; [Pranav](https://github.com/Pranavmaid).
