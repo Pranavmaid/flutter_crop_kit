@@ -1,0 +1,17 @@
+name: flutter_crop_kit
+description: A pure-Dart Flutter image cropper that runs identically on mobile, web, desktop, and embedded targets.
+version: 0.1.0
+homepage: https://github.com/pranavmaid/flutter_crop_kit
+repository: https://github.com/pranavmaid/flutter_crop_kit
+issue_tracker: https://github.com/pranavmaid/flutter_crop_kit/issues
+environment:
+  sdk: ^3.4.0
+  flutter: ">=3.22.0"
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
