@@ -396,7 +396,6 @@ class _CropScreenState extends State<_CropScreen> {
   }
 }
 
-
 class _LiveRectChip extends StatelessWidget {
   const _LiveRectChip({required this.rect});
   final Rect rect;
